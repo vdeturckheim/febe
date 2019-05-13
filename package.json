@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/vdeturckheim/febe#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.16.4",
     "sqlite3": "^4.0.8"
   },
