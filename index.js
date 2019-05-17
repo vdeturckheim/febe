@@ -1,4 +1,4 @@
-'use stirct';
+'use strict';
 const app = require('./lib/app').app;
 
 const PORT = process.env.PORT || 8080;
